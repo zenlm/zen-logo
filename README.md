@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen-logo" width="880"></p>
+
 # @zenlm/logo
 
 Official Zen AI logo package with React components and utilities.
